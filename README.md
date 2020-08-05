@@ -27,6 +27,6 @@ While examining the data, I overcome with a creeping suspicion that the dataset 
 
 # My observations:
 
-
+![employeeSQL](Images/avg_salary_job_title.png)
 
 As per the above bar chart, we see that the average salary of assistant engineer, engineer, senior engineer and technique leader are almost same which is practically incorrect. The salary of staff and senior staff are almost same and highest among other cadres. The salary of senior staff and staff is more than manager which is totally vague.
