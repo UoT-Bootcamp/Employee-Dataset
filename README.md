@@ -17,3 +17,16 @@ In this assignment, we will design the tables to hold data in the CSVs, import t
 * List all employees in the Sales department, including their employee number, last name, first name, and department name.
 * List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 * In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
+
+
+While examining the data, I overcome with a creeping suspicion that the dataset is fake. To confirm my hunch, I decided to take the following steps to generate a visualization of the data:
+
+* Imported the SQL database into Pandas.
+* Created a histogram to visualize the most common salary ranges for employees.
+* Created a bar chart of average salary by title.
+
+# My observations:
+
+
+
+As per the above bar chart, we see that the average salary of assistant engineer, engineer, senior engineer and technique leader are almost same which is practically incorrect. The salary of staff and senior staff are almost same and highest among other cadres. The salary of senior staff and staff is more than manager which is totally vague.
