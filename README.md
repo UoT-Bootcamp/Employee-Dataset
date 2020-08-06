@@ -2,12 +2,14 @@
 
 # Background
 
-In this assignment, we will design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer try to write some SQL queries to get answers of some questions about the data. In other words, we will perform:
+In this assignment, we will design the tables to hold data in the CSVs, import the CSVs into a SQL database, and write some SQL queries to get answers of some questions about the data. In other words, we will perform:
 
 * Data Engineering
 * Data Analysis
 
 # Data Analysis
+
+We will write SQL queries to get the below results:
 
 * List the following details of each employee: employee number, last name, first name, sex, and salary.
 * List first name, last name, and hire date for employees who were hired in 1986.
