@@ -27,7 +27,7 @@ While examining the data, I overcome with a creeping suspicion that the dataset 
 * Created a histogram to visualize the most common salary ranges for employees.
 * Created a bar chart of average salary by title.
 
-# My observations:
+# Observations:
 
 ![employeeSQL](Images/avg_salary_job_title.png)
 
